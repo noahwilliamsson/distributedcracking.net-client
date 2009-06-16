@@ -1,0 +1,4 @@
+This is John the Ripper 1.7.2 + jumbo patch + additional code and modifications to 
+allow it to run against the distributedcracking.net software.
+
+The plain John the Ripper can be downloaded from http://www.openwall.com/john/

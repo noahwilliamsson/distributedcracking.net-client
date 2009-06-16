@@ -1,0 +1,4 @@
+Build
+=====
+To compile on Debian/Ubuntu:
+  # apt-get install libcurl4-openssl-dev libssl-dev
